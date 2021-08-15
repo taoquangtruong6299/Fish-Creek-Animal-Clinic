@@ -1,0 +1,34 @@
+body{
+
+  color: #003366;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#wrapper{
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f0f0f0;
+}
+header{
+  background-color: #003366;
+  color: #aec3e3;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+  line-height: 200%;
+  text-indent: 1em;
+}
+nav{
+  font-weight: bold;
+
+}
+dt{
+  color: #5280c5;
+  font-size: 1.1em;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+  font-size: .70em;
+  font-family: italic;
+}
